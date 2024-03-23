@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(37, 111, 196);
+    color: rgb(86, 90, 89);
+    font-size: 25px;
+    font-family: 'Comfortaa', sans-serif;
+}
+.in{
+    margin-left: 15px;
+    width: 100px;
+    height: 25px;
+    border-color: rgb(136, 149, 180);
+    color: rgb(241, 241, 241);
+    background-color: rgb(41, 172, 172);
+    font-size: 20px;
+    border-radius: 15px;
+}
+.button{
+    margin-left: 12px;
+    font-size: 35px;
+    background-color: rgb(115, 174, 199);
+    border-color: aliceblue;
+    border-radius: 15px;
+    color:azure;font-size: 15px;
+}
+.p{
+    height: 28px;
+    margin-left: 42px;
+    width: 150px;
+    border-radius: 15px;
+    padding-left: 15px;
+    background-color: rgb(69, 156, 156);
+}
+h1{
+  margin-top: 15%;
+}
+.d{
+    padding-left: 20px;
+    width: 300px;
+    height: 300px;
+    border-radius: 20px ;
+    background-color: rgb(131, 199, 190);
+    margin-left: 39%;
+}
+.green{
+    color:green
+}
+.red{
+    color:red
+}
